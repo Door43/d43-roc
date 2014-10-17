@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[roc:home|Door43 (roc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-roc|d43-roc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-roc/archive/master.zip|d43-roc.zip]]
+
+**Recent Changes**
+{{changes>ns = roc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/roc|Ethnologue data]]
+
